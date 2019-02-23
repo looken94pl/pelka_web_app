@@ -1,0 +1,11 @@
+Do 10.03.2018
+
+FrontEnd
+wstepny wyglad strony
+wstepny formularz do ubezpieczenia
+
+
+BackEnd
+Wstepne uruchomienie środowiska
+Postawic baze danych z losowymi danymi
+polaczyc nasza apke do bazy danych
