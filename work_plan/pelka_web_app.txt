@@ -1,0 +1,33 @@
+Strona agenta ubezpieczeniowego
+
+1. FUNCTIONALITY
+    1. FrontEnd (JavaScript Angular z google material design albo VUEjs(nowe do obadania))
+        1.Rejestrowanie uzytkownikow
+            1.Wymagane pola
+                1.Mail
+                2.Haslo
+                3.Imie
+                4.Nazwisko
+                5.DataUrodzenia
+            2.USER
+                1.Podglad utworzonych wnioskow(swoje)
+                2.Status wniosków
+            3.ADMIN
+                1.Podglad utworzonych wnioskow(wszystkie)
+                2.Status wniosków
+	    2. Formularz do wypełnienia wniosków
+    2. BackEnd (Node.js(jako runtime enviroment), strapi do postawienia serwera
+    łatwe API do wyklikania wszystko działające z node.js )
+
+    3. Admin
+    4.Export do zewnetrzenego formatu przenosnego
+    5. User
+    5. Serwer (mySQL,SQL)
+    6. Obsługa bazy danych
+    7. Wysyłanie powiadomien
+    8. Drukowanie wniosków
+    9. API dla FrontEndu(strapi)
+
+	2. Ubezpieczenie1
+	3. Ubezpieczenie2
+	4. Ubezpieczenie3
