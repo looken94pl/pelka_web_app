@@ -1,1 +1,13 @@
-
+:host #workarea{
+  position: absolute;
+  left:59px;
+  top:39px;
+}
+:host #image{
+  position: relative;
+  left: 25px;
+  top: 0px;
+}
+:host{
+  overflow: auto;
+}

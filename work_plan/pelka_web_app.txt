@@ -20,7 +20,7 @@ Strona agenta ubezpieczeniowego
     łatwe API do wyklikania wszystko działające z node.js )
 
     3. Admin
-    4.Export do zewnetrzenego formatu przenosnego
+    4. Export do zewnetrzenego formatu przenosnego
     5. User
     5. Serwer (mySQL,SQL)
     6. Obsługa bazy danych

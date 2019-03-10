@@ -1,6 +1,7 @@
 import { Component, Input, OnInit } from '@angular/core';
 import {ButtonComponent} from './button/button.component';
-
+import {NavbarVerticalComponent} from './navbar-vertical/navbar_vertical.component'
+import {NavbarHorizontalComponent} from './navbar-horizontal/navbar_horizontal.component'
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -11,7 +12,6 @@ export class AppComponent implements OnInit{
 
   }
   title = 'frontend';
-  @Input() value = this.title;
 
   changeProperty(change: string){
     this.title = change

@@ -1,3 +1,18 @@
-.button{
-  background-color: #4CAF50;
+:host button{
+  background-color: #1976d2;
+  color: #ffffff;
+  font: 'Arial';
+  font-size: 18px;
+  height: 50px;
+  width: 100px;
+  border-radius: 12px;
+  border: none;
+  display: inline-block;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+
+}
+:host button:hover {
+  background-color: #63a4ff; /* Green */
+  color: white;
 }

@@ -1,0 +1,17 @@
+:host #option1{
+  position: relative;
+  left: 0px;
+  top: 70px;
+
+}
+:host #option2{
+  position: relative;
+  left: 0px;
+  top: 80px;
+}
+:host #navbar_vertical{
+  position: absolute;
+  width: 110px;
+  height: 100%;
+  background-color: #005bb2;
+}
