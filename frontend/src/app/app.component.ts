@@ -1,7 +1,7 @@
 import { Component, Input, OnInit } from '@angular/core';
 import {ButtonComponent} from './button/button.component';
-import {NavbarVerticalComponent} from './navbar-vertical/navbar_vertical.component'
-import {NavbarHorizontalComponent} from './navbar-horizontal/navbar_horizontal.component'
+import {NavbarVerticalComponent} from './navbar-vertical/navbar-vertical.component'
+import {NavbarHorizontalComponent} from './navbar-horizontal/navbar-horizontal.component'
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
